@@ -1,1 +1,10 @@
 # ISP-LIST-LK
+
+ISP	SLTMobitel	Dialog	Airtel	Hutch
+MCC	413	413	413	413
+MNC	01	02	05	08
+2G				
+3G				
+4G	1,3,5,38,41	3,8,41		3,8
+4G+CA		B1+B3, 40 40, 41 41	B1 +B5	B1 +b8
+5G				
